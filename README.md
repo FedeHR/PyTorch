@@ -1,2 +1,2 @@
 # PyTorch
-A variety of machine learning tasks using on the python library PyTorch. 
+A variety of machine learning tasks implemented on the python library PyTorch. 
